@@ -1,0 +1,4 @@
+D:\Felix\HTL\5BHIF\NVS\Mobile Computing\Uebung_5_Pokemon_Xamarin\Pokemon\Pokemon\Pokemon.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Felix\HTL\5BHIF\NVS\Mobile Computing\Uebung_5_Pokemon_Xamarin\Pokemon\Pokemon\Pokemon.Android\obj\Debug\90\build.props
+D:\Felix\HTL\5BHIF\NVS\Mobile Computing\Uebung_5_Pokemon_Xamarin\Pokemon\Pokemon\Pokemon.Android\obj\Debug\90\adb.props
+D:\Felix\HTL\5BHIF\NVS\Mobile Computing\Uebung_5_Pokemon_Xamarin\Pokemon\Pokemon\Pokemon.Android\obj\Debug\90\Pokemon.Android.csprojAssemblyReference.cache
